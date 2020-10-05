@@ -1,4 +1,8 @@
-### Hi there 👋
+### "Olá Pessoal !" \o/ 
+
+My name is Rodrigo Mendes, I'm from Brazil (🇧🇷), I´ve been living in Portugal. I've been working as Java Developer since 2013. Actually I work as a Software Engineer at Axians Portugal.
+
+Would you like to find me?
 
 <!--
 **rodrigorodes/rodrigorodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
