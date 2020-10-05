@@ -4,6 +4,8 @@ My name is Rodrigo Mendes, I'm from Brazil (🇧🇷), I´ve been living in Port
 
 Would you like to find me?
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomendes-silva/)](https://www.linkedin.com/in/rodrigomendes-silva/)
+
 <!--
 **rodrigorodes/rodrigorodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
