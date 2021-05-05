@@ -1,6 +1,6 @@
 ### "Olá Pessoal !" \o/ 
 
-My name is Rodrigo Mendes, I'm from Brazil (🇧🇷). I've been working as a Java Developer since 2013. Currently, I work as a Software Engineer in Portugal.
+My name is Rodrigo Mendes, I'm from Brazil (🇧🇷). I've been working as a Java Developer since 2014. Currently, I work as a Software Engineer in Portugal.
 
 Would you like to find me?
 
