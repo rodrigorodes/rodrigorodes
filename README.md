@@ -1,4 +1,4 @@
-### "Olá Pessoal !" \o/ 
+### "Hello !" \o/ 
 
 My name is Rodrigo Mendes, I'm from Brazil (🇧🇷). I've been working as a Java Developer since 2014. Currently, I work as a Software Engineer in Portugal.
 
